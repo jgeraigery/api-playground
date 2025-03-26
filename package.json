@@ -34,7 +34,7 @@
     "feathers-errors": "^2.4.0",
     "feathers-hooks": "^1.5.4",
     "feathers-rest": "^1.4.3",
-    "feathers-sequelize": "^1.3.3",
+    "feathers-sequelize": "^6.3.4",
     "feathers-socketio": "^1.4.1",
     "marked": "^0.3.6",
     "passport": "^0.3.2",
