@@ -25,7 +25,7 @@
   },
   "dependencies": {
     "ajv": "^4.8.2",
-    "body-parser": "^1.15.2",
+    "body-parser": "^2.0.0",
     "compression": "^1.6.2",
     "cors": "^2.7.1",
     "degrees-radians": "^1.0.3",
